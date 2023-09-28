@@ -5,7 +5,7 @@ This project showcases a Gradio app powered by the **billsum-BART-base-cnn** mod
 
 ## Model Used:
 
-+ **Model Name**: billsum-BART-base-cnn
++ **Model Name**: billsum-BART-base-cnn [**https://huggingface.co/ayoubkirouane/billsum-BART-base-cnn**]
 + **Description**: A BART-based model fine-tuned on the CNN Daily Mail dataset for text summarization, specifically on the BillSum dataset containing summaries of US Congressional and California state bills.
 
 ## Features:
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-+ You can Check the Demo from here : **https://huggingface.co/spaces/ayoubkirouane/billsum-BART-base-cnn** 
++ You can Check the Demo from here: **https://huggingface.co/spaces/ayoubkirouane/billsum-BART-base-cnn** 
 
 ![Screenshot at 2023-09-28 14-01-23](https://github.com/Kirouane-Ayoub/billsum-BART-base-cnn-app/assets/99510125/bdd177df-2f0b-4c2b-b5d9-65684e83e3b0)
 
